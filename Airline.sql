@@ -1,3 +1,9 @@
+/*
+Airline Data Exploration 
+Skills used:Procedure,Aggregate Functions, Creating Table
+*/
+
+
 create database maven;
 use maven;
 drop database maven;
@@ -256,11 +262,3 @@ count(id) as total_customers,
 round((count(class)/(select count(id) from airline_ps)) *100,0) as percentage
 from airline_ps
 group by class;
-
-
-
-
-
-
-
-
