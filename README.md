@@ -2,9 +2,12 @@
 
 
 Basic Topics:
-        1.	Database creation and table creation (CREATE DATABASE, USE, DROP DATABASE, CREATE TABLE)
-        2.	Loading data from a CSV file into a table (LOAD DATA INFILE)
-Intermediate Topics: 
+      
+      1.	Database creation and table creation (CREATE DATABASE,  USE, DROP DATABASE, CREATE TABLE)
+      2.	Loading data from a CSV file into a table (LOAD DATA INFILE)
+    
+Intermediate Topics:
+
         3. Stored procedure creation and execution (CREATE PROCEDURE, CALL)
         4.	Basic aggregate functions (COUNT, AVG, MAX, MIN)
         5.	Grouping data and generating summaries (GROUP BY)
@@ -14,6 +17,7 @@ Intermediate Topics:
         9.	Calculation of percentages based on class type
         10.	Sorting and ordering of data (ORDER BY)
 Advanced Topics :
+
         1.	Creating and using a database
         2.	Stored procedures
         3.	Aggregate functions
